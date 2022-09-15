@@ -1,1 +1,1 @@
-Vanilla JS + SASS template
+[DEMO LINK](https://aleksandryuschenko.github.io/react_dynamic-list-of-goods/) Landing view
