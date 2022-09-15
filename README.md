@@ -1,1 +1,1 @@
-[DEMO LINK](https://aleksandryuschenko.github.io/react_dynamic-list-of-goods/) Landing view
+[DEMO LINK](https://aleksandryuschenko.github.io/my_bike/) Landing view
